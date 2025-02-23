@@ -1,6 +1,3 @@
-# A detailed course to undestand nextjs
-
-
 ## Tech Stack
 - Nextjs
 - typescript
